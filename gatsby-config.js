@@ -42,6 +42,14 @@ module.exports = {
             name: `LinkedIn`,
             url: `https://www.linkedin.com/in/aiden-ramirez-210478107/`,
           },
+          {
+            name: 'Instagram',
+            url: 'https://www.instagram.com/aiden.ramirez/'
+          },
+          {
+            name: 'Github',
+            url: 'https://github.com/ramirezra4/'
+          }
         ],
       },
     },

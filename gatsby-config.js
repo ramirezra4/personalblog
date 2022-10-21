@@ -11,7 +11,7 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
     siteTitle: `Aiden Ramirez`,
-    siteTitleAlt: `Blog`,
+    siteTitleAlt: `Aiden's Blog`,
     siteHeadline: `A personal blog`,
     siteUrl: `https://minimal-blog.lekoarts.de`,
     siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
@@ -35,16 +35,16 @@ module.exports = {
         ],
         externalLinks: [
           {
+            name: 'Instagram',
+            url: 'https://www.instagram.com/aiden.ramirez/'
+          },
+          {
             name: `Twitter`,
             url: `https://twitter.com/popraramirez`,
           },
           {
             name: `LinkedIn`,
             url: `https://www.linkedin.com/in/aiden-ramirez-210478107/`,
-          },
-          {
-            name: 'Instagram',
-            url: 'https://www.instagram.com/aiden.ramirez/'
           },
           {
             name: 'Github',

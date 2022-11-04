@@ -11,12 +11,12 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
     siteTitle: `Aiden Ramirez`,
-    siteTitleAlt: `Aiden's Blog`,
-    siteHeadline: `A personal blog`,
-    siteUrl: `https://minimal-blog.lekoarts.de`,
-    siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
+    siteTitleAlt: `Aiden Ramirez`,
+    siteHeadline: `Aiden Ramirez`,
+    siteUrl: `raidenr.com`,
+    siteDescription: `Aiden Ramirez's portfolio and blog.`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@aidenramirez`,
   },
   plugins: [
     {
